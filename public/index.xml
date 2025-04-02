@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeta Psi | MIT</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Zeta Psi | MIT</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alumni</title>
+      <link>http://localhost:1313/alumni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alumni/</guid>
+      <description>&lt;h1 id=&#34;rush-zeta-psi&#34;&gt;Rush Zeta Psi&lt;/h1&gt;&#xA;&lt;p&gt;Join one of MIT’s most vibrant communities&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brothers</title>
+      <link>http://localhost:1313/brothers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brothers/</guid>
+      <description>&lt;h1 id=&#34;meet-our-brothers&#34;&gt;Meet our brothers&lt;/h1&gt;&#xA;&lt;p&gt;Join one of MIT’s most vibrant communities&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;&#xA;&lt;p&gt;Join one of MIT’s most vibrant communities&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>House</title>
+      <link>http://localhost:1313/house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/house/</guid>
+      <description>&lt;h1 id=&#34;one-house-one-home&#34;&gt;One house one home&lt;/h1&gt;&#xA;&lt;p&gt;Join one of MIT’s most vibrant communities&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rush</title>
+      <link>http://localhost:1313/rush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rush/</guid>
+      <description>&lt;h1 id=&#34;rush-zeta-psi&#34;&gt;Rush Zeta Psi&lt;/h1&gt;&#xA;&lt;p&gt;Join one of MIT’s most vibrant communities&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Zeta_Psi_Coat_of_Arms.png&#34; alt=&#34;Group photo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

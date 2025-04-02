@@ -1,0 +1,38 @@
+baseURL = "https://zetapsi.mit.edu/"
+languageCode = "en-us"
+title = "Zeta Psi | MIT"
+theme = "ananke"
+
+[params]
+  mainSections = ["home"]
+
+[menu]
+  [[menu.main]]
+    identifier = "rush"
+    name = "Rush"
+    url = "/rush/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "brothers"
+    name = "Brothers"
+    url = "/brothers/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "house"
+    name = "House"
+    url = "/house/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "alumni"
+    name = "Alumni"
+    url = "/alumni/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
