@@ -1,6 +1,6 @@
 ---
 title: "Zeta Psi | MIT"
-featured_image: "/images/house.jpg"
+featured_image: "/images/house1.jpg"
 ---
 
 # Welcome to Zeta Psi – MIT Chapter
