@@ -14,7 +14,7 @@ We'd love to hear from you! Whether you're interested in learning more about our
 If you're considering joining Zeta Psi or have questions about the rush process, please contact our Rush Chairs:
 
 - **Justin Weiss**: [jdweiss1@mit.edu](mailto:jdweiss1@mit.edu)
-- **Mario Zamora**: [mariozamora@mit.edu](mailto:mariozamora@mit.edu)
+- **Mario Zamora**: [mariozamora@mit.edu](mailto:mczamora@mit.edu)
 
 ---
 

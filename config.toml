@@ -5,6 +5,8 @@ theme = "ananke"
 
 [params]
   mainSections = ["home"]
+  site_logo = "images/logo.png"
+
 
 [menu]
   [[menu.main]]
