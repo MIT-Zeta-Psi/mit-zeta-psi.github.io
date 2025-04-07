@@ -20,14 +20,11 @@ This year’s Rho Alpha chapter is proud to represent a diverse and talented gro
 ## Executive Board
 
 - **President (Phi):** Marco Arias
-- **Vice President (Alpha Phi):** Sasha Shershtnev
+- **Vice President (Alpha Phi):** Sasha Sherstnev
 - **Treasurer (Sigma):** Trace St. Julian
-- **House Manager (Delta):** Gabriel Vargas
+- **Historian (Delta):** Cal Rustad
 - **Social Chairs:** Eduardo Hernandez and Jeffrey Zhu
 - **Rush Chairs:** Jake Weiss and Mario Zamora Delgado
-- **Alumni Chair:** Seth Robles
-
-(*Want to include short bios or contact info? We can expand this section easily.*)
 
 ---
 
