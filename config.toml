@@ -7,6 +7,9 @@ theme = "ananke"
   mainSections = ["home"]
   site_logo = "images/logo.png"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [menu]
   [[menu.main]]
