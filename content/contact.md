@@ -1,6 +1,5 @@
 ---
 title: "Contact Us | Zeta Psi – MIT"
-featured_image: "/images/contact_banner.jpg"
 ---
 
 # Get in Touch with Zeta Psi – MIT
@@ -14,7 +13,7 @@ We'd love to hear from you! Whether you're interested in learning more about our
 If you're considering joining Zeta Psi or have questions about the rush process, please contact our Rush Chairs:
 
 - **Justin Weiss**: [jdweiss1@mit.edu](mailto:jdweiss1@mit.edu)
-- **Mario Zamora**: [mariozamora@mit.edu](mailto:mczamora@mit.edu)
+- **Mario Zamora**: [mczamora@mit.edu](mailto:mczamora@mit.edu)
 
 ---
 
@@ -24,11 +23,11 @@ If you're considering joining Zeta Psi or have questions about the rush process,
 
 Zeta Psi – Rho Alpha Chapter  
 515 Beacon Street  
-Boston, MA 02215
+Boston, MA 02115
 
-**Email:** [zeta.psi@mit.edu](mailto:zeta.psi@mit.edu)
+**Email:** [admin@zetapsi.mit.edu](mailto:admin@zetapsi.mit.edu)
 
-**Phone:** (617) 258-5594
+**Phone:** (760) 696-7783
 
 ---
 

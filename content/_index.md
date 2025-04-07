@@ -34,18 +34,6 @@ Learn more at [zetapsi.org](https://zetapsi.org)
 
 ---
 
-## Our History
-
-- **June 1, 1847** — Zeta Psi is founded at New York University.  
-- **May 3, 1870** — Zeta Psi becomes the first fraternity on the West Coast at UC Berkeley.  
-- **March 27, 1879** — Zeta Psi becomes the first international fraternity at the University of Toronto.
-- **May 5, 1979** — Zeta Psi is founded at MIT.
-
-
-As the **MIT chapter**, we are proud to carry this legacy of innovation, scholarship, and brotherhood into the heart of Kendall Square and beyond.
-
----
-
 ## What Makes a Zete?
 
 Zeta Psi unites a diverse group of men into a single brotherhood. At MIT, our chapter blends tradition with innovation. Whether it’s a hackathon, a startup, or a campus event, we support one another to grow personally and professionally.

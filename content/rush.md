@@ -2,8 +2,13 @@
 title: "Rush"
 ---
 
-# Rush Zeta Psi
+## Get in Touch
 
-Join one of MIT’s most vibrant communities...
+Interested in rushing Zeta Psi or have questions? We’d love to hear from you.
 
-![Group photo](/images/Zeta_Psi_Coat_of_Arms.png)
+**Email us:** [rush@zetapsi.mit.edu](mailto:rush@zetapsi.mit.edu)  
+**Text us:** (480) 599-1765  
+**Visit us:** 515 Beacon St, Boston, MA
+
+Follow us on Instagram [@mitzete](https://instagram.com/mitzete) to stay updated!
+

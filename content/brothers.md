@@ -32,7 +32,6 @@ This year’s Rho Alpha chapter is proud to represent a diverse and talented gro
 
 - **Class Years Represented:** 2025, 2026, 2027, 2028  
 - **Majors:** Course 6, 18, 2, 10, 15, and more  
-- **Clubs & Activities:** Poker Club, DanceTroupe, Engineers Without Borders, HackMIT, and more
 
 ---
 
